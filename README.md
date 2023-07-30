@@ -2,7 +2,7 @@
 Aplicativo para criação e controle de máquinas virtuais na Azure para uso educacional
 
 ## Primeiros passos
-### Etapa 1
+### Etapa 1 - Instalar o app e configurar conta de estudante da Azure
 Primeiramente, baixe e instale o aplicativo pelo link abaixo:
 /link-aqui/
 
@@ -44,3 +44,5 @@ O endereço de e-mail já virá preenchido com o seu e-mail institucional com o 
 Após finalizar todas as etapas, solucionar o enigma de ‘não sou um robô’, e clicar em Verificar status acadêmico.
 
 *Importante: Devido às configurações de e-mail aplicadas pela sua instituição, é possível que seja necessário preencher mais informações além das citadas acima, ou até mesmo passar por mais etapas além do que foi citado. Caso isso ocorra, **basta seguir com o preenchimento e com as instruções do site e ao final do processo sua conta de estudante da Azure estará ativa e os 100 dólares anuais serão aplicados.***
+
+### Etapa 2: Realizar as configurações entre a Azure e o aplicativo
