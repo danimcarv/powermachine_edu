@@ -32,21 +32,17 @@
             font-size: 36px;
         }
     
-        button {
-          padding: 10px 20px;
-          font-size: 16px;
-          background-color: #0078D4;
-          color: #fff;
-          border: none;
-          border-radius: 5px;
-          cursor: pointer;
-          transition: background-color 0.2s ease-in-out;
-          display: block;
-          margin: 0 auto;
+        .botao-login {
+            width: 342px;
+            height: 50px;
+            display: block;
+            margin: 0 auto;
+            transition: filter 0.5s ease-in-out;
         }
-    
-        button:hover {
-          background-color: #005a9e;
+        
+        .botao-login:hover {
+        filter: brightness(80%);
+        transition: filter 0.5s ease-in-out;
         }
       </style>
 </head>
@@ -54,7 +50,7 @@
     <div class=“container”>
     <h1 class="titulo">PowerMachine - Educacional</h1>
     <h1>Faça login na sua conta da Azure</h1>
-    <button onclick="loginWithMicrosoft()">Logar com a conta Microsoft</button>
+    <input class="botao-login" type="image" src="https://github-production-user-asset-6210df.s3.amazonaws.com/122396799/257021025-a1cc3d1a-a179-4ccd-b90a-684c068f871f.png" alt="Login com Microsoft" onclick="loginWithMicrosoft()">
     </div>
 
     <script>
